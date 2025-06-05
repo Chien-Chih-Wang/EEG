@@ -2,7 +2,7 @@
 Authors: 110062130 沈錫賢, 110062144 王建智, 110062330 許昊彣
 
 ## Demo Video
- [![Watch the video](assets\Video.png)](https://www.youtube.com/watch?v=Mk1F4geuE28)
+ [![Watch the video](assets/Video.png)](https://www.youtube.com/watch?v=Mk1F4geuE28)
 
 
 ## Introduction

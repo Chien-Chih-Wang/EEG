@@ -199,6 +199,7 @@ The figure below shows the experiment procedure of FACED dataset.
     3. XGBoost
 
     <img src="assets\xg2.png" width="700"/>
+    <img src="assets\xgb_curve.png" width="700"/>
 
     
     
